@@ -4,4 +4,4 @@ title: Home
 permalink: /
 ---
 
-# Home
+![](/images/fox-flag-banner.png)
