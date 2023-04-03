@@ -13,3 +13,5 @@ permalink: /meetings/
 length of each section?
 confidential nature of sharing
 mindful dialogue: https://imcw.org/wp-content/uploads/2022/10/SF-Mindful-Dialogue-Process.doc.pdf
+
+helpful if people commit to attending regularly
