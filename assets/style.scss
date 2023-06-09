@@ -21,9 +21,9 @@ html {
 }
 
 body {
-  background: #fff;
+  background: $background;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #404040;
+  color: $fontColor;
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -39,7 +39,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: $darkerGray;
+  color: $headerColor;
   font-weight: bold;
 
   line-height: 1.7;
@@ -177,7 +177,7 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: $linkColor;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -306,7 +306,7 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $titleColor;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -321,7 +321,7 @@ p > img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $subtitleColor;
   font-size: 16px;
 
   @include mobile {
@@ -344,14 +344,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $navLinkColor;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $linkColor;
     }
   }
 }
@@ -415,7 +415,7 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: $lightGray;
+  background-color: $footerBackground;
 }
 
 footer {
@@ -611,7 +611,7 @@ Modules - reusable parts of our design
 
 #gh-latest{
     font-size: 16px;
-    text-align: center;		
+    text-align: center;
 }
 
 .text-link {
@@ -714,7 +714,7 @@ Modules - reusable parts of our design
   display: inline-block;
 }
 
-.pagination a {    
+.pagination a {
   &:hover {
       background-color: #f1f1f1;
       color: #333;

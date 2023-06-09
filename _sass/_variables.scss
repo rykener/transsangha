@@ -4,14 +4,15 @@
 //
 
 // Colors
-$blue: #4183C4;
+$blue: #62A3E4;
 
 // Grays
 $black: #000;
+$backgroundGray: #111;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
-$lightGray: #eee;
+$lightGray: #ddd;
 $white: #fff;
 
 // Font stacks
@@ -25,3 +26,14 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+// Color Assignments
+
+$background: $backgroundGray;
+$fontColor: $white;
+$navLinkColor: $white;
+$headerColor: $white;
+$titleColor: $white;
+$subtitleColor: $gray;
+$linkColor: $blue;
+$footerBackground: $darkerGray
