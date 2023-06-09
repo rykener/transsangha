@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-<img src="images/fox-icon-bare.png" alt="an illustration of a ghostly fox" width="200px"/>
+<img src="images/fox-icon-bare.png" alt="an illustration of a ghostly fox" width="150px"/>
 
 # Fox Ghost Trans Sangha in San Francisco
 Fox Ghost Zen, or sometimes just referred to as _Trans Sangha_, is a meditation group by and for trans people. Beginners and newcomers are always welcome. Meetings will include brief introductions, meditation, and discussions about Buddhist practice. Meditation instruction will be provided for anyone who would like to learn, or who would like a refresher.
@@ -16,7 +16,9 @@ We meet on the 1st and 3rd Thursdays of the month, gathering at 7pm with meditat
 We will meditate for 20-30 minutes and then have a group discussion, ending around 8:15pm.
 
 ## Location
-[San Francisco Zen Center](https://sfzc.org) located at [300 Page St](https://goo.gl/maps/1tYkRHUwu3E2i5rz5). We meet in the Art Lounge meeting space on the first floor.
+<img src="images/sfzc.jpg" alt="a photo of the zen center" width="400px"/>
+
+[San Francisco Zen Center](https://sfzc.org) located at [300 Page St](https://goo.gl/maps/1tYkRHUwu3E2i5rz5). We meet in the Art Lounge meeting space on the first floor, there will be signs.
 
 ## Joining
 Drop-ins are welcome! If you're joining for your first time it's helpful if you send us an email to let us know you're planning on coming: [TransSangha@gmail.com](mailto:transsangha@gmail.com)
