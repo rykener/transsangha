@@ -11,7 +11,7 @@ permalink: /
 Fox Ghost Zen, or sometimes just referred to as _Trans Sangha_, is a meditation group by and for trans people. Beginners and newcomers are always welcome. Meetings will include brief introductions, meditation, and discussions about Buddhist practice. Meditation instruction will be provided for anyone who would like to learn, or who would like a refresher.
 
 ## Schedule
-We meet on the 1st and 3rd Thursdays of the month, gathering at 7pm with meditation starting promptly at 7:15pm.
+**Our very first meeting is July 6, 2023!** We meet on the 1st and 3rd Thursdays of the month, gathering at 7pm with meditation starting promptly at 7:15pm.
 
 We will meditate for 20-30 minutes and then have a group discussion, ending around 8:15pm.
 
