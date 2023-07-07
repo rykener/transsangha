@@ -35,7 +35,7 @@ Drop-ins are welcome! We try to keep this website as up-to-date as possible.
 
 <img src="images/signal.png" alt="signal app logo" width="100px"/>
 
-We use a read-only Signal group to send updates to interested people. You can get added to the group if you ask the facilitators in person or you can send an email to [TransSangha@gmail.com](mailto:transsangha@gmail.com) with your phone number asking to be added.
+We use a read-only Signal group to send updates to interested people. If you have Signal downloaded you can [use this link](https://signal.group/#CjQKICYH4BMbBk2x0wwIzPQT26q-4Bv-f8yC493EyGR5WMuyEhCEzV1c3QgZEuN1McLCru51) to request being added to the group.
 
 The Signal group is *not* a group chat.
 
