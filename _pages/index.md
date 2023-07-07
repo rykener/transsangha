@@ -39,7 +39,7 @@ We use a read-only Signal group to send updates to interested people. If you hav
 
 The Signal group is *not* a group chat.
 
-You can download Signal for [iPhone here](https://apps.apple.com/us/app/signal-private-messenger/id874139669) or [Android here](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms).
+Signal is a security-focused, open-source chat application similar to WhatsApp but not owned by a billionaire. It's commonly used in both trans and activist circles for organizing. You can download Signal for [iPhone here](https://apps.apple.com/us/app/signal-private-messenger/id874139669) or [Android here](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms).
 
 ## Covid Protocol
 All participants must be fully vaccinated with booster shots. We adopt the rules of the space that we're using, as such masks are currently **not required**. Regardless, **please bring a K/N95 mask with you** as this guideline may change in order to help make our space more inclusive.
