@@ -126,7 +126,7 @@ Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if
 
 ## The name?
 
-reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
+reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup>
 
 
 ## License
