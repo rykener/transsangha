@@ -19,10 +19,11 @@ We meet on the 1st and 3rd Thursdays of the month, gathering at 7pm with meditat
 
 **Upcoming Meetings**
 
-| Thurs July 20 |
 | Thurs Aug 3   |
 | Thurs Aug 17  |
+| _TBD: Thurs Aug 31_  |
 | Thurs Sept 7  |
+| Thurs Sept 21  |
 
 If there is significant demand we will try to add more meeting times, let us know!
 
@@ -55,7 +56,7 @@ We are not Buddhist teachers.
 ## Meditation Style/Instruction
 Any meditation instruction we give in the group will be based on or inspired by Shikantaza (Silent Illumination), the traditional meditation practice of Soto Zen. You are not required to meditate in that tradition in order to participate. All we ask is that you remain silent during the meditation period.
 
-For the time being we will be providing light guided meditation during our 20-30 minute meditation sessions.
+For the time being we will be providing light, guided meditation during our 20-30 minute meditation sessions.
 
 If you would like to receive more in-depth meditation instruction please let one of the facilitators know. Meditation should be inclusive, we will attempt to adapt the instruction to any specific needs.
 
