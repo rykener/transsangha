@@ -67,7 +67,7 @@ If you would like to receive more in-depth meditation instruction please let one
 
 To help protect people who are immunocompromised all participants are required to wear masks and have full vaccinations + boosters.
 
-In order to respect people with multiple chemical sensitives and related conditions, this is a **scent-free** community. Please do not arrive wearing perfume, cologne, heavily scented laundry detergent, or smelling of smoke. People who do not follow this guideline may be asked to leave.
+In order to respect people who have medical reactions to strong smells, this is a **scent-free** community. Please do not arrive wearing perfume, cologne, heavily scented laundry detergent, or smelling of smoke. People who do not follow this guideline may be asked to leave.
 
 We meet in an indoor space that is a large room with ventilation. Folks who are able-bodied will carry comfy chairs over to the room for everyone to sit on. If you need access to a chair and there isn't one available, or if you have any other accessibility needs please do not hesitate to speak to the facilitators. There are also meditation cushions to use to sit or lay on the floor.
 
