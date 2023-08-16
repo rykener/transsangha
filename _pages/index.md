@@ -20,12 +20,10 @@ We meet on the 1st and 3rd Thursdays of the month with the occasional bonus meet
 **Upcoming Meetings**
 
 
-| TBD: Thurs Aug 17<sup>*</sup>  |
+| Thurs Aug 17  |
 | Bonus: Thurs Aug 31  |
 | Thurs Sept 7  |
 | Thurs Sept 21  |
-
-<sup>*</sup>Aug 17 may be cancelled. Please join the Signal group for timely updates.
 
 If there is significant demand we will try to add more meeting times, let us know!
 
