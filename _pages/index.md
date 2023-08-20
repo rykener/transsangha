@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-<img src="images/fox-icon-bare.png" alt="an illustration of a ghostly fox, it's very spooky" width="150px"/>
+<img src="images/fox-icon-bare.png" alt="an illustration of a ghostly fox with missing eyes, it's very spooky" width="150px"/>
 
 # Fox Ghost Trans Sangha in San Francisco
 Fox Ghost Zen, or just _Trans Sangha_, is a meditation group by and for trans people. Beginners and newcomers are always welcome. Meetings will include brief introductions, meditation, and discussions about Buddhist/meditation practice.
