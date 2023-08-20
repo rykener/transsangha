@@ -15,19 +15,18 @@ This is a **scent-free** space. Please do not arrive wearing perfume, cologne, h
 
 ## Schedule
 
-We meet on the 1st and 3rd Thursdays of the month with the occasional bonus meeting on off weeks. We gather at 7pm with meditation starting shortly after. The doors will lock around 7:10pm, after which you can ring the doorbell (not the call box) to be let in.
+We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with meditation starting shortly after. The doors will lock around 7:10pm, after which you can ring the doorbell (not the call box) to be let in.
 
 **Upcoming Meetings**
 
-
-| Thurs Aug 17  |
-| Bonus: Thurs Aug 31  |
+| Thurs Aug 31  |
 | Thurs Sept 7  |
-| Thurs Sept 21  |
+| Thurs Sept 21 |
+| Thurs Oct 5   |
 
-If there is significant demand we will try to add more meeting times, let us know!
+If there is significant demand we will consider a switch to weekly meetings, let us know!
 
-We will meditate for around 20-30 minutes and then have a group discussion, ending around 8:30pm. Herbal tea and a snack will be provided afterwards if you'd like to stick around and chat.
+We meditate for around 20-30 minutes and then have a group discussion, ending around 8:30pm. Herbal tea and a snack will be provided afterwards if you'd like to stick around and chat.
 
 ## Location
 <img src="images/sfzc.jpg" alt="a photo of the meeting place with an arrow pointing to the entrance" width="400px"/>
