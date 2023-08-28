@@ -12,9 +12,9 @@ permalink: /accessibility
 
 We take covid very seriously. Fall of 2023 will likely see a massive surge in covid cases, putting vulnerable populations at extreme risk and exposing the general population to the risk of permanent disability due to long covid. 
 
-Due to these reasons all participants are **required** to wear a K/N95 masks while inside the temple as a guest of Fox Ghost. Vaccinations are also required.
+Due to these reasons all participants are **required** to wear a K/N95 masks while inside the temple as a member of Trans Sangha. Vaccinations are also required. There are highly vulnerable people in this group, please help to protect them.
 
-If you are sick with a potentially communicable illness, covid or not, please do not attend.
+If you suspect you are sick with anything that may spread through the air or surfaces, covid or not, please do not attend. 
 
 The room we meet in is large and has substantial ventilation. 
 

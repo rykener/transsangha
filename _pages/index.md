@@ -8,7 +8,7 @@ permalink: /
 
 # Fox Ghost Trans Sangha in San Francisco
 
-Fox Ghost is a meditation and discussion group by and for trans people. Beginners and newcomers are always welcome. Meetings will include brief introductions, meditation, and discussions about Buddhist/meditation practice.
+Trans Sangha is a meditation and discussion group by and for trans people. Beginners and newcomers are always welcome. Meetings will include brief introductions, meditation, and discussions about Buddhist/meditation practice.
 
 ## [Masks are required](/accessibility) ... [We are a scent-free community](/accessibility#accessibility)
 
@@ -22,7 +22,7 @@ Great! We welcome all trans people. Here's what you should know:
 * We are a [scent-free](/accessibility#accessibility) community, meaning you should not arrive with any strong scents on you such as perfume/cologne, smoke, essential oils, or heavy detergents. 
 * Hang out after the meeting for some tea, cookies, and a chance to get to know each other
 * Meetings typically have around 10-20 in attendance
-* No dress code, comfy clothes recommended. You will be required to remove your shoes to enter the meditation area (may be left on for accessbility purposes)
+* No dress code, comfy clothes recommended. You will be required to remove your shoes to enter the meditation area, so consider slip-ons (shoes may be left on for accessbility purposes, let a facillitator know).
 
 ## Facilitators
 
