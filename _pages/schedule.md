@@ -1,11 +1,8 @@
 ---
 layout: page
-title:
+title: Schedule & Location
 permalink: /schedule
 ---
-
-
-# Schedule/Location
 
 ## Schedule
 
@@ -13,12 +10,10 @@ We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with m
 
 **Upcoming Meetings**
 
-| Thurs Aug 31  |
 | Thurs Sept 7  |
 | Thurs Sept 21 |
 | Thurs Oct 5   |
-
-If there is significant demand we will consider a switch to weekly meetings, let us know!
+| Thurs Oct 19  |
 
 We meditate for around 20-30 minutes and then have a group discussion, ending around 8:30pm. Herbal tea and a snack will be provided afterwards if you'd like to stick around and chat.
 

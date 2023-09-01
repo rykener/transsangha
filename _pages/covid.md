@@ -1,10 +1,9 @@
 ---
 layout: page
-title:
+title: Covid & Accessibility
 permalink: /accessibility
 ---
 
-# Covid and Accessibility
 
 ## Covid Protocols
 

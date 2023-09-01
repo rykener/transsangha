@@ -20,7 +20,7 @@ Great! We welcome all trans people. Here's what you should know:
 * [Join the Signal group](/contact). This is a read-only group chat on Signal where we drop updates and reminders about the group. It's our alternative to an email list.
 * [Covid and accessibility info](/accessibility), masks required.
 * We are a [scent-free](/accessibility#accessibility) community, meaning you should not arrive with any strong scents on you such as perfume/cologne, smoke, essential oils, or heavy detergents. 
-* Hang out after the meeting for some tea, cookies, and a chance to get to know each other
+* Hang out after the meeting for some tea, cookies, and a chance to get to know each other. You must consume outside. Please do not remove masks in the building.
 * Meetings typically have around 10-20 in attendance
 * No dress code, comfy clothes recommended. You will be required to remove your shoes to enter the meditation area, so consider slip-ons (shoes may be left on for accessbility purposes, let a facillitator know).
 
