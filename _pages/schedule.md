@@ -10,7 +10,6 @@ We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with m
 
 **Upcoming Meetings**
 
-| Thurs Sept 7  |
 | Thurs Sept 21 |
 | Thurs Oct 5   |
 | Thurs Oct 19  |
