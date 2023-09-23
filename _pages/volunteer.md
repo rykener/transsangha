@@ -4,7 +4,7 @@ title: Volunteer
 permalink: /volunteer
 ---
 
-A volunteer is needed for preparing snacks & tea and a second volunteer is needed for desk duty. Eleanor will reimburse snacks out of the Dana pool, up to $25? How much do snacks cost? 
+A volunteer is needed for preparing snacks & tea and a second volunteer is needed to be greeter. Eleanor will reimburse snacks out of the Dana pool, up to $25? How much do snacks cost? 
 
 ### [Sign up to volunteer here](https://docs.google.com/spreadsheets/d/1-eF7tl9Pzge-n5tqFYH8rhRo3_Sc3jWkhQhl0G7fkto/edit#gid=0)
 
