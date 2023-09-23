@@ -22,11 +22,11 @@ Once things are winding down, recruit a few folks to help you clean up. Ask a fa
 
 ## Greeter Instructions
 
-Your job is to be the face of the trans sangha for the evening. This helps make new folks feel welcome and lets them know they're in the right place. 
+Your job is to be the face of the trans sangha when everyone comes to the temple for the meeting. This helps make new folks feel welcome and lets them know they're in the right place. 
 
 Arrive early, around 6:45. The front door should already be open. Signs for trans sangha will be out on the desk, or else you can get them from Kei. Put the sign up on the front door as well as one on the desk. There's a sign up sheet for the Signal group and a donation sign that should be out on the desk as well. 
 
-There will be a Zen Center resident sitting at the desk until about 7pm. Hang around the lobby and greet the people who are here for Trans Sangha. When people who are brand new arrive run through the following with them:
+There will be a Zen Center resident sitting at the desk until about 7pm. Help get the meeting space setup and then hang around the lobby and greet the people who are here for Trans Sangha. When people who are brand new arrive run through the following with them:
 
 1) make sure they're wearing a K/N95 mask. If they don't have one, provide one that will be on the desk. (other guests to the temple are not currently required to wear them!)
 2) point them to the room we're meeing in, and make sure they know to take off their shoes before entering.
