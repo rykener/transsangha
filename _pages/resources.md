@@ -29,7 +29,10 @@ About how the legacy of racial injustice and white supremacy plays out in societ
 * [Borrow at the SF library](https://sfpl.bibliocommons.com/v2/record/S93C3228820) 
 * Download an unauthorized eBook (.epub format) of it [here](/documents/radical.epub).
 
-### How to start a sangha
+### My Foxy Body by River Shannon 
+From a trans Zen practicioner. She reflects on her life in practice and on the koan that Fox Ghost was named after. Multiple trans people independently arriving at this koan as a trans allegory is very satisfying. [Read here](https://tricycle.org/article/trans-identity-fox-koan/)
+
+### Guidelines for new Sanghas
 
 * [Tara Brach](https://www.tarabrach.com/starting-meditation-group/)
 * [Spirit Rock](https://www.spiritrock.org/kalyana-mitta-guidelines)
