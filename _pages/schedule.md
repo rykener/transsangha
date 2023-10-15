@@ -20,7 +20,7 @@ We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with m
 | ~~Thurs Dec 7~~ | CANCELLED, temple is closed.
 | Thurs Dec 21  | New location. TBA.
 
-We meditate for around 20-30 minutes and then have a group discussion, ending around 8:30pm. Herbal tea and a snack will be provided afterwards if you'd like to stick around and chat.
+We meditate for around 20-30 minutes and then have a structured group discussion, ending around 8:30pm. Herbal tea and a snack will be provided afterwards if you'd like to stick around and chat.
 
 
 ## Location
