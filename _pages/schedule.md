@@ -12,9 +12,8 @@ We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with m
 
 | Date          | Notes
 |---------------|--------
-| Thurs Nov 2   | "Rituals" Part 2 (Dead name ceremony)
 | Thurs Nov 16  |
-| Mon Nov 20    | Special TDOR ceremony. Outdoors location TBD.
+| **Mon** Nov 20    | TDOR ceremony, in Panhandle Park.
 | Thurs Nov 30  |
 | ~~Thurs Dec 7~~ | CANCELLED, temple is closed.
 | Thurs Dec 21  | New location. TBA.
