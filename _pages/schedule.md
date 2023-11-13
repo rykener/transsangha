@@ -13,7 +13,7 @@ We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with m
 | Date          | Notes
 |---------------|--------
 | Thurs Nov 16  |
-| **Mon** Nov 20    | TDOR ceremony, in Panhandle Park.
+| **Mon** Nov 20    | TDOR ceremony, in The Panhandle.
 | Thurs Nov 30  |
 | ~~Thurs Dec 7~~ | CANCELLED, temple is closed.
 | Thurs Dec 21  | New location. TBA.
