@@ -10,14 +10,13 @@ We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with m
 
 **Upcoming Meetings**
 
-| Date          | Notes
-|---------------|--------
-| Thurs Nov 16  |
-| **Mon** Nov 20    | TDOR ceremony, in The Panhandle.
-| Thurs Nov 30  |
+| Date           | Notes
+|----------------|--------
+| **Mon** Nov 20 | TDOR ceremony, in The Panhandle.
+| Thurs Nov 30   |
 | ~~Thurs Dec 7~~ | CANCELLED, temple is closed.
-| Thurs Dec 21  | New location. TBA.
-| Thurs Jan 4	|
+| Thurs Dec 21   | New meeting room, same building.
+| Thurs Jan 4	 |
 
 
 We meditate for around 20-30 minutes and then have a structured group discussion, ending around 8:30pm. Herbal tea and a snack will be provided afterwards if you'd like to stick around and chat.
