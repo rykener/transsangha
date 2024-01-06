@@ -26,7 +26,7 @@ Great! We welcome all trans people. Here's what you should know:
 
 ## Facilitators
 
-The group is co-facilitated by temple resident Kei Van Arnam and former resident Eleanor Shonin Rykener, both white trans women. We are students in the Soto Zen Buddhist lineage. Please feel free to say hi before or after meetings!
+The group is co-facilitated by Kei Van Arnam, Eleanor Rykener, and Marion Anthonisen, We are students in the Soto Zen Buddhist lineage. Please feel free to say hi before or after meetings!
 
 We are not Buddhist teachers.
 
