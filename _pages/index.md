@@ -26,13 +26,13 @@ Great! We welcome all trans people. Here's what you should know:
 
 ## Facilitators
 
-The group is co-facilitated by Kei Van Arnam, Eleanor Rykener, and Marion Anthonisen, We are students in the Soto Zen Buddhist lineage. Please feel free to say hi before or after meetings!
+The group is co-facilitated by Eleanor Rykener and Marion Anthonisen. Eleanor is a student in the Soto Zen Buddhist lineage and Marion is a student of the Insight tradition of Theravada Buddhism. Please feel free to say hi before or after meetings!
 
 We are not Buddhist teachers.
 
 ## Meditation Style/Instruction
 
-The meditation instructions we give in the group is based on or inspired by Shikantaza (Silent Illumination), the traditional meditation practice of Soto Zen. You are not required to meditate in that tradition in order to participate. All we ask is that you remain silent during the meditation period. 
+The meditation instructions we give in the group is based on or inspired by Shikantaza (Silent Illumination), the traditional meditation practice of Soto Zen or in the style of the Insight/Vipassana tradition. You are not required to meditate in that tradition in order to participate. All we ask is that you remain silent during the meditation period. 
 
 For the time being we will be providing light, guided meditation during our 20-30 minute meditation sessions.
 
