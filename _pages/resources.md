@@ -30,7 +30,7 @@ About how the legacy of racial injustice and white supremacy plays out in societ
 * Download an unauthorized eBook (.epub format) of it [here](/documents/radical.epub).
 
 ### My Foxy Body by River Shannon 
-From a trans Zen practicioner. She reflects on her life in practice and on the koan that Fox Ghost was named after. Multiple trans people independently arriving at this koan as a trans allegory is very satisfying. [Read here](https://tricycle.org/article/trans-identity-fox-koan/)
+From a trans Zen practicioner. She reflects on her life in practice and on the koan that Fox Ghost was named after. [Read here](https://tricycle.org/article/trans-identity-fox-koan/)
 
 ### Guidelines for new Sanghas
 

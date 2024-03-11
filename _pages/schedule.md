@@ -6,27 +6,32 @@ permalink: /schedule
 
 ## Schedule
 
-We meet on the 1st, 3rd, and 5th Thursdays of the month. We gather at 7pm with meditation starting shortly after. The doors will lock around 7:10pm, after which you can ring the doorbell (not the call box) to be let in.
+We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gather at 7pm, and begin meditation shortly after. The doors will lock around 7:10pm. If you arrive late, you can knock on the door to be let in. 
 
 **Upcoming Meetings**
 
 | Date           | Notes
 |----------------|--------
-| Thurs Jan 18   |
-| Thurs Feb 01   |
-| Thurs Feb 15   | 
-| Thurs Mar 07	 |
-| Thurs Mar 21	 |
-| Thurs Apr 04	 |
+| Thurs Mar 21	 | 
+| Thurs Apr 04	 | Guest speaker: Madison Sho'on Roze
 | Thurs Apr 18	 |
+| Thurs May 02   |
+| Thurs May 16   |
+| Thurs May 30   | TBD, 5th Thursday 
+| Thurs Jun 06   | 
+| Thurs Jun 20   |
+| Thurs Jul 04   | Move to new, temporary location
+| Thurs Jul 18   | 
+| Thurs Aug 01   |
+| Thurs Aug 15   | Kei returns
+| Thurs Aug 29   | TBD, 5th Thursday 
 
 
-We meditate for around 20-30 minutes and then have a structured group discussion, ending around 8:30pm. Herbal tea and a snack will be provided afterwards if you'd like to stick around and chat.
-
+Our regular format includes 20-30 minutes of meditation, a short talk, and community discussion, ending at 8:30pm. If you'd like to stick around and chat, we share a snack on the stairs outside after the meeting.
 
 ## Location
 
 <img src="images/San_Francisco_Zen_Center.jpg" alt="a photo of the meeting place with an arrow pointing to the entrance" width="400px"/>
 
-[San Francisco Zen Center](https://sfzc.org) located at [300 Page St](https://goo.gl/maps/1tYkRHUwu3E2i5rz5). We meet in the Zendo located through the enterance on Laguna St. There will be signs and friendly trans people pointing the way.
+[San Francisco Zen Center](https://sfzc.org) located at [300 Page St](https://goo.gl/maps/1tYkRHUwu3E2i5rz5). We meet in the Zendo located through the entrance on Laguna St. There will be signs and friendly trans people pointing the way.
 
