@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-Trans Sangha fosters trans community grounded in mutual aid while following in the tradition of the Buddha. We run a meditation and discussion group twice a month that focuses on the intersection of Buddhism, meditation, trans issues, and community care. We also operate as a mutual aid collective, freely giving and receiving non-monetary support to each other. Beginners and newcomers are always welcome. 
+Trans Sangha fosters trans community grounded in mutual aid while following in the tradition of the Buddha. We run a meditation and discussion group twice a month that focuses on the intersection of Buddhism, meditation, trans issues, and community care. We are also building a mutual aid network to support each other through illness, injury, surgery, and other life changing circumstances. 
 
 
 ## [Masks required // Scent-free](/accessibility)
