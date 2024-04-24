@@ -12,10 +12,7 @@ We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gat
 
 | Date           | Notes
 |----------------|--------
-| Thurs Mar 21	 | 
-| Thurs Apr 04	 | Guest speaker: Madison Sho'on Roze
-| Thurs Apr 18	 |
-| Thurs May 02   |
+| Thurs May 02   | Lovingkindness & Self-love
 | Thurs May 16   |
 | Thurs May 30   | TBD, 5th Thursday 
 | Thurs Jun 06   | 
