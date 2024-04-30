@@ -14,7 +14,7 @@ We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gat
 |----------------|--------
 | Thurs May 02   | Lovingkindness & Self-love
 | Thurs May 16   |
-| Thurs May 30   | TBD, 5th Thursday 
+| Thurs May 30   | Bonus meeting (5th Thurs)
 | Thurs Jun 06   | 
 | Thurs Jun 20   |
 | ** Switching to 2nd and 4th Thursdays ** |
