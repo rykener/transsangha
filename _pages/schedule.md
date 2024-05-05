@@ -12,8 +12,7 @@ We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gat
 
 | Date           | Notes
 |----------------|--------
-| Thurs May 02   | Lovingkindness & Self-love
-| Thurs May 16   |
+| Thurs May 16   | Clothing swap after meeting
 | Sat May 25	 | HOLD for potential Half-day retreat
 | Thurs May 30   | Bonus meeting (5th Thurs)
 | Thurs Jun 06   | 
