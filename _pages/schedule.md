@@ -14,9 +14,11 @@ We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gat
 |----------------|--------
 | Thurs May 02   | Lovingkindness & Self-love
 | Thurs May 16   |
+| Sat May 25	 | HOLD for potential Half-day retreat
 | Thurs May 30   | Bonus meeting (5th Thurs)
 | Thurs Jun 06   | 
 | Thurs Jun 20   |
+| Thurs Jun 27   | TBD, potential bridge meeting
 | ** Switching to 2nd and 4th Thursdays ** |
 | Thurs Jul 11   | Meeting at SF LGBT Center
 | Thurs Jul 25   | Meeting at SF LGBT Center
