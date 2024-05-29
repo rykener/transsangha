@@ -9,10 +9,9 @@ permalink: /accessibility
 
 ### K/N95 Masks and Vaccines Required!
 
-We take Covid very seriously. All participants are **required** to wear a K/N95 masks while inside the temple as a member of Trans Sangha. Vaccinations are also required (exemptions made for medical reasons). There are highly vulnerable people in this group; please help to protect them so that the space is welcoming for all.
+KN95 or N95 are required when attending Trans Sangha. Cloth masks and surgical masks are not permitted. We mask as an act of community care & to make this space accessible to and inclusive of sangha members who are disabled, chronically ill, and/or immunocompromised.
 
 If you suspect you are sick (Covid or not), please do not attend. 
-
 
 ## Accessibility 
 

@@ -12,8 +12,6 @@ We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gat
 
 | Date           | Notes
 |----------------|--------
-| Thurs May 16   | Clothing swap after meeting
-| Sat May 25	 | HOLD for potential Half-day retreat
 | Thurs May 30   | Bonus meeting (5th Thurs)
 | Thurs Jun 06   | 
 | Thurs Jun 20   |
@@ -23,7 +21,6 @@ We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gat
 | Thurs Jul 25   | Meeting at SF LGBT Center
 | Thurs Aug 08   | Meeting at SF LGBT Center
 | Thurs Aug 22   | Meeting at SF LGBT Center (Kei returns)
-| Thurs Aug 29   | Back to Zen Center, TBD, 5th Thursday 
 
 
 Our regular format includes 20-30 minutes of meditation, a short talk, and community discussion, ending at 8:30pm. If you'd like to stick around and chat, we share a snack on the stairs outside after the meeting.
