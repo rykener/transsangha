@@ -12,9 +12,8 @@ We meet on the 1st, 3rd, and occasionally the 5th Thursdays of the month. We gat
 
 | Date           | Notes
 |----------------|--------
-| Thurs May 30   | Bonus meeting (5th Thurs)
 | Thurs Jun 06   | 
-| Thurs Jun 20   |
+| Thurs Jun 20   | Meeting at Ocean Beach, DM facilitators for details.
 | Thurs Jun 27   | TBD, potential bridge meeting
 | ** Switching to 2nd and 4th Thursdays ** |
 | Thurs Jul 11   | Meeting at SF LGBT Center (1 year anniversary!)
