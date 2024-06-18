@@ -4,8 +4,6 @@ title:
 permalink: /contact
 ---
 
-# Contact
-
 ## Email
 [TransSangha@gmail.com](mailto:transsangha@gmail.com)
 

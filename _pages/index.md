@@ -33,7 +33,7 @@ We are not Buddhist teachers.
 
 ## Meditation Style/Instruction
 
-The meditation instructions we give in the group is based on or inspired by Shikantaza (Silent Illumination), the traditional meditation practice of Soto Zen, or in the style of the Insight/Vipassana tradition. You are not required to meditate in these traditions in order to participate. All we ask is that you remain silent during the meditation period. 
+The meditation instructions we give in the group is based on or inspired by Shikantaza (Just Sitting), the traditional meditation practice of Soto Zen, or in the style of the Insight/Vipassana tradition. You are not required to meditate in these traditions in order to participate. All we ask is that you remain silent during the meditation period. 
 
 For the time being we will be providing light, guided meditation during our 20-30 minute meditation sessions.
 
