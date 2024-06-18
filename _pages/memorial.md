@@ -12,7 +12,7 @@ The ceremony will include:
 
 * [Full prostrations](https://austinzencenter.org/full-prostration/) towards an altar
 * Offerings of flower petals or incense
-* Chanting the [Dai Hi Shin Darani](https://www.sfzc.org/files/daily_sutras_Dai_Hi_Shin_Darani), an ancient Buddhist invocation in Sino-Japanese. The intention is to provide compassion and protection. The translation has been lost to time. 
+* Chanting the [Dai Hi Shin Darani](https://www.sfzc.org/files/daily_sutras_Dai_Hi_Shin_Darani), an ancient Buddhist invocation in Sino-Japanese. An intention of the chant is to provide compassion and protection. The full translation has been lost to time. 
 * More prostrations
 
 ## Memorial starts at 6:40pm
