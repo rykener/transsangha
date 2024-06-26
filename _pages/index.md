@@ -40,3 +40,9 @@ For the time being we will be providing light, guided meditation during our 20-3
 If you would like to receive more in-depth meditation instruction please let one of the facilitators know. Meditation should be inclusive, and we will attempt to adapt the instruction to any specific needs.
 
 
+## Affiliation 
+
+Trans Sangha is a non-denominational affinity group of [San Francisco Zen Center's](https://www.sfzc.org/) Beginner's Mind Temple. It is with deep gratitude that we thank the temple's leadership for their extreme generosity and support. 
+
+
+
