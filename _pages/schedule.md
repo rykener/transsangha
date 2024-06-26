@@ -23,7 +23,7 @@ We meet on the 2nd, 4th, and occasionally the 5th Thursdays of the month. We gat
 | Thurs Sept 26  |
 
 
-Our regular format includes 20-30 minutes of meditation, a short talk, and community discussion, ending at 8:30pm. If you'd like to stick around and chat, we share a snack on the LGBT Center balcony afterwards.
+Our regular format includes 20-30 minutes of meditation, a short talk, and community discussion, ending at 8:30pm. If you'd like to stick around and chat, we share a snack outdoors afterwards.
 
 <!-- the stairs outside after the meeting. -->
 
