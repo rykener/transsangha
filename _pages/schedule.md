@@ -12,12 +12,9 @@ We meet on the 2nd, 4th, and occasionally the 5th Thursdays of the month. We gat
 
 | Date           | Notes
 |----------------|--------
-| ** Switching to 2nd and 4th Thursdays ** |
-| Thurs Jun 27   | Bonus meeting at SF LGBT Center
-| Thurs Jul 11   | Meeting at SF LGBT Center (1 year anniversary!)
 | Thurs Jul 25   | Meeting at SF LGBT Center
-| Thurs Aug 08   | Meeting at SF LGBT Center
-| Thurs Aug 22   | Meeting at SF LGBT Center (Kei returns)
+| Thurs Aug 08   | Meeting at SF LGBT Center (Kei returns)
+| Thurs Aug 22   | Meeting at SF LGBT Center
 | Thurs Aug 29   | TBD - 5th Thurs 
 | Thurs Sept 12  | 
 | Thurs Sept 26  |
