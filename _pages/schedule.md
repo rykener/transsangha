@@ -12,12 +12,14 @@ We meet on the 2nd, 4th, and occasionally the 5th Thursdays of the month. We gat
 
 | Date           | Notes
 |----------------|--------
-| Thurs Jul 25   | Meeting at SF LGBT Center
 | Thurs Aug 08   | Meeting at SF LGBT Center (Kei returns)
 | Thurs Aug 22   | Meeting at SF LGBT Center
-| Thurs Aug 29   | TBD - 5th Thurs 
-| Thurs Sept 12  | 
-| Thurs Sept 26  |
+| Thurs Sept 12  | Meeting at SF LGBT Center
+| Thurs Sept 19	 | TBD (Back to Zen Center)
+| Thurs Sept 26  | 
+| Thurs Oct 3    | TBD
+| Thurs Oct 10   | 
+| Thurs Oct 24   | 
 
 
 Our regular format includes 20-30 minutes of meditation, a short talk, and community discussion, ending at 8:30pm. If you'd like to stick around and chat, we share a snack outdoors afterwards.
