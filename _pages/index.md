@@ -25,7 +25,7 @@ Great! We welcome all trans people. Here's what you should know:
 
 ## Facilitators
 
-The group is co-facilitated by Kei Claire Van Arnam, Marion Anthonisen, and Eleanor Rykener. Kei and Eleanor are students in the Shunryu Suzuki lineage of Soto Zen Buddhist lineage and Marion is a student of the Insight tradition of Theravada Buddhism. Please feel free to say hi before or after meetings! 
+The group is co-facilitated by Kei Claire Van Arnam, Marion Anthonisen, and Eleanor Rykener. Kei and Eleanor are students in the Shunryu Suzuki lineage of Soto Zen Buddhism and Marion is a student of the Insight tradition of Theravada Buddhism. Please feel free to say hi before or after meetings! 
 
 We are not Buddhist teachers.
 
