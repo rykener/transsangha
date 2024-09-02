@@ -12,9 +12,7 @@ We meet on the 2nd, 4th, and occasionally the 5th Thursdays of the month. We gat
 
 | Date           | Notes
 |----------------|--------
-| Thurs Aug 08   | Meeting at SF LGBT Center
-| Thurs Aug 22   | Meeting at SF LGBT Center
-| Thurs Sept 12  | Meeting at SF LGBT Center
+| Thurs Sept 12  | Final Meeting at SF LGBT Center
 | Thurs Sept 19	 | TBD (Back to Zen Center)
 | Thurs Sept 26  | 
 | Thurs Oct 3    | TBD
