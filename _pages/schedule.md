@@ -6,38 +6,52 @@ permalink: /schedule
 
 ## Schedule
 
-We meet on the 2nd, 4th, and occasionally the 5th Thursdays of the month. We gather at 7pm, and begin meditation shortly after. 
+Every Thursday from 7:00pm-8:30pm.
+
+We recommend newcomers visit on 🟡 Sangha Night if you're not confident with long periods of silent meditation.
 
 **Upcoming Meetings**
 
-| Date           | Notes
-|----------------|--------
-| Thurs Sept 12  | Final Meeting at SF LGBT Center
-| Thurs Sept 19	 | TBD (Back to Zen Center)
-| Thurs Sept 26  | 
-| Thurs Oct 3    | TBD
-| Thurs Oct 10   | 
-| Thurs Oct 24   | 
-| Thurs Oct 31   | TBD, (5th Thurs)
-| Thurs Nov 14   |
-| Thurs Nov 28   | 
+<div class="special_table"></div>
+
+| Date           | Meeting Format | Notes |
+|----------------|----------------|-------|
+| Thurs Sept 12  | 🟡 Sangha Night | Final Meeting at SF LGBT Center
+| Thurs Sept 26  | 🟡 Sangha Night | Back to Zen Center
+| Thurs Oct 3    | 🔵 Buddha Night | TBD
+| Thurs Oct 10   | 🟡 Sangha Night |
+| Thurs Oct 17   | 🔵 Buddha Night |
+| Thurs Oct 24   | 🟡 Sangha Night |
+| Thurs Oct 31   | 🟢 Dharma Night | Ceremony?
+| Thurs Nov 7    | 🔵 Buddha Night | 
+| Thurs Nov 14   | 🟡 Sangha Night |
+| Thurs Nov 21   | 🔵 Buddha Night |
+| Thurs Nov 28   | 🟡 Sangha Night
 
 
-Our regular format includes 20-30 minutes of meditation, a short talk, and community discussion, ending at 8:30pm. If you'd like to stick around and chat, we share a snack outdoors afterwards.
 
-<!-- the stairs outside after the meeting. -->
+### 🟡 Sangha Night
+
+🟡 Sangha Night is a community building focused evening and includes 25 minutes of guided meditation, introductions, a short talk, and community discussion. If you'd like to stick around and chat, we share a snack outdoors afterwards.
+
+Sangha Night is the 2nd and 4th Thursdays of the month.
+
+### 🔵 Buddha Night
+
+🔵 Buddha Night is a meditation heavy evening. We start with introductions, proceed to have two periods of meditation, which are fully silent, have some light body movement, and finally a community member will share a reading. We have a snack outdoors afterwards.
+
+Buddha Night is the 1st and 3rd Thursdays of the month.
+
+### 🟢 Dharma Night 
+
+🟢 Dharma Night will be different each time it comes around. It will involve a concentrated look at a Buddhist text, a ceremony of some sort, or anything else that feels relevant. 
+
+Dharma Night is on the 5th Thursdays, which happens every couple months. 
+
 
 ## Location
 
-<img src="images/sflgbtcenter.jpg" alt="a photo of the meeting place with an arrow pointing to the entrance" width="500px"/>
+<img src="images/San_Francisco_Zen_Center.jpg" alt="a photo of the meeting place with an arrow pointing to the entrance" width="400px"/>
 
-[SF LGBT Center](https://www.sfcenter.org/) is located at [1800 Market St](https://maps.app.goo.gl/4sThaKXq8nbWWsN39) at the intersection of Market and Octavia in an iconic purple building. We meet in room 204, the "Blue Room." When you enter you can ask for directions to "Trans Sangha" from the reception desk and they'll help you get to the right meeting room.
-
-Masks are not required in the SF LGBT Center but ARE REQUIRED when entering our meeting space.
-
-With deep gratitude we thank San Francisco Zen Center for providing us with this space while the temple we typically meet in is under renovation. 
-
-<!-- <img src="images/San_Francisco_Zen_Center.jpg" alt="a photo of the meeting place with an arrow pointing to the entrance" width="400px"/> -->
-
-<!-- [San Francisco Zen Center](https://sfzc.org) located at [300 Page St](https://goo.gl/maps/1tYkRHUwu3E2i5rz5). We meet in the Zendo located through the entrance on Laguna St. There will be signs and friendly trans people pointing the way. -->
+[San Francisco Zen Center](https://sfzc.org) located at [300 Page St](https://goo.gl/maps/1tYkRHUwu3E2i5rz5). We meet in the Zendo located through the entrance on Laguna St. There will be signs and friendly trans people pointing the way.
 

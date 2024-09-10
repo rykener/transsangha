@@ -24,6 +24,22 @@
   margin-left: 10px;
 }
 
+.sangha {
+  background-color: #daa520;
+  color: #000;
+}
+
+.buddha {
+  background-color: #6495ED;
+  color: #000;
+}
+
+// div.special_table + table tr:nth-child(even) {background: #C29B0C}
+// div.special_table + table tr:nth-child(odd) {background: #C29B0C}
+// div.special_table + table tr:nth-child(8) {background: #6b8e23}
+// div.special_table + table tr:nth-child(9) {background: #6b8e23}
+
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -113,13 +129,14 @@ table {
 
 table tr {
 	border-top: 1px solid #cccccc;
-	background-color: grey;
+	// background-color: grey;
+  background-color: #1a1a1a;
 	margin: 0;
 	padding: 0;
 }
 
 table tr:nth-child(2n) {
-	background-color: #444444;
+	background-color: #333;
 }
 
 table tr th {
@@ -128,6 +145,7 @@ table tr th {
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
+  background-color: #1a1a1a;
 }
 
 table tr td {
