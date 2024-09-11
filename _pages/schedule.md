@@ -18,7 +18,7 @@ We recommend newcomers visit on 🟡 Sangha Night if you're not confident with l
 |----------------|----------------|-------|
 | Thurs Sept 12  | 🟡 Sangha Night | Final Meeting at SF LGBT Center
 | Thurs Sept 26  | 🟡 Sangha Night | Back to Zen Center
-| Thurs Oct 3    | 🔵 Buddha Night | TBD
+| Thurs Oct 3    | 🔵 Buddha Night | TBD - maybe cancelled
 | Thurs Oct 10   | 🟡 Sangha Night |
 | Thurs Oct 17   | 🔵 Buddha Night |
 | Thurs Oct 24   | 🟡 Sangha Night |
