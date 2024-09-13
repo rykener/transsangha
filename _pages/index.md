@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-Trans Sangha fosters trans community grounded in mutual aid while following in the tradition of the Buddha. We run a meditation and discussion group twice a month that focuses on the intersection of Buddhism, meditation, trans issues, and community care. We are also building a mutual aid network to support each other through illness, injury, surgery, and other life changing circumstances. 
+Trans Sangha fosters trans community grounded in mutual aid while following in the tradition of the Buddha. We run a meditation and discussion group every Thursday that focuses on the intersection of Buddhism, meditation, trans issues, and community care. We are also building a mutual aid network to support each other through illness, injury, surgery, and other life changing circumstances. 
 
 
 ## [Masks required // Scent-free](/accessibility)
@@ -13,7 +13,7 @@ Trans Sangha fosters trans community grounded in mutual aid while following in t
 
 Great! We welcome all trans people. Here's what you should know:
 
-* If you're not confident with long periods of silent meditation, take a look at our calendar to make sure you visit us on 🟡 Sangha Night---our more community oriented program. 
+* If you're new to meditation, come visit us on 🟡 Sangha Night! This includes a guided meditation and community discussion, and may be a preferable program for beginners. See the [calendar](/schedule) for more info. 
 * [Calendar, meeting times, and location](/schedule)
 * [Join the Signal group](/contact). This is a read-only group chat on Signal where we drop updates and reminders about the group. It's our alternative to an email list.
 * [Covid and accessibility info](/accessibility)
@@ -21,8 +21,8 @@ Great! We welcome all trans people. Here's what you should know:
 * We are a [scent-free](/accessibility#accessibility) community, meaning you should not arrive with any strong scents on you such as perfume/cologne, smoke, essential oils, or heavy detergents. 
 * The meeting place is under renovation and the only available restrooms are outdoor, flushable portapoties which are kept very clean.
 * Meetings typically have around 15-25 people in attendance and end promptly at 8:30
-* Hang out after the meeting for cookies and a chance to get to know each other.
-* No dress code. Comfy clothes recommended. You will be required to remove your shoes to enter the meditation area, so consider slip-ons (shoes may be left on for accessibility purposes, let a facilitator know).
+* Optional hang out after the meeting for cookies and a chance to get to know each other.
+* No dress code. Comfy clothes recommended. You will be required to remove your shoes to enter the meditation area, so consider slip-ons (shoes may be left on for accessibility purposes, but please let a facilitator know).
 
 ## Facilitators
 

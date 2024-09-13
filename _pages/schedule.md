@@ -14,10 +14,10 @@ We recommend newcomers visit on 🟡 Sangha Night if you're not confident with l
 
 <div class="special_table"></div>
 
-| Date           | Meeting Format | Notes |
-|----------------|----------------|-------|
-| Thurs Sept 12  | 🟡 Sangha Night | Final Meeting at SF LGBT Center
-| Thurs Sept 26  | 🟡 Sangha Night | Back to Zen Center
+| Date           | Meeting Format  | Notes |
+|----------------|-----------------|-------|
+| LOCATION MOVED | back to Zen Center. | See Below. |
+| Thurs Sept 26  | 🟡 Sangha Night | Meeting at SFZC.
 | Thurs Oct 3    | 🔵 Buddha Night | TBD - maybe cancelled
 | Thurs Oct 10   | 🟡 Sangha Night |
 | Thurs Oct 17   | 🔵 Buddha Night |
@@ -38,9 +38,11 @@ Sangha Night is the 2nd and 4th Thursdays of the month.
 
 ### 🔵 Buddha Night
 
-🔵 Buddha Night is a meditation heavy evening. We start with introductions, proceed to have two periods of meditation, which are fully silent, have some light body movement, and finally a community member will share a reading. We have a snack outdoors afterwards.
+🔵 Buddha Night is a silent meditation focused evening. Exact format is TBD, but won't include a talk or discussion. We share a snack outdoors afterwards.
 
 Buddha Night is the 1st and 3rd Thursdays of the month.
+
+<!-- We start with introductions, proceed to have two periods of meditation, which are fully silent, have some light body movement, and finally a community member will share a reading. -->
 
 ### 🟢 Dharma Night 
 
