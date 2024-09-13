@@ -8,7 +8,7 @@ permalink: /schedule
 
 Every Thursday from 7:00pm-8:30pm.
 
-We recommend newcomers visit on 🟡 Sangha Night if you're not confident with long periods of silent meditation.
+We recommend newcomers visit on 🟡 Sangha Night. 
 
 **Upcoming Meetings**
 
