@@ -34,7 +34,7 @@ We are not Buddhist teachers.
 
 The meditation instructions we give in the group is based on or inspired by Shikantaza (Just Sitting), the traditional meditation practice of Soto Zen, or in the style of the Insight/Vipassana tradition. You are not required to meditate in these traditions in order to participate. All we ask is that you remain silent during the meditation period. 
 
-Guided meditation is provided on 🟡 Sangha Night, where as meditation is fully silent on 🔵 Buddha Night.
+Guided meditation is provided on 🟡 Sangha Night, where as meditation is fully silent on 🔷 Buddha Night.
 
 If you would like to receive more in-depth meditation instruction please let one of the facilitators know. Meditation should be inclusive, and we will attempt to adapt the instruction to any specific needs.
 

@@ -18,14 +18,14 @@ We recommend newcomers visit on 🟡 Sangha Night.
 |----------------|-----------------|-------|
 | LOCATION MOVED | back to Zen Center. | See Below. |
 | Thurs Sept 26  | 🟡 Sangha Night | Meeting at SFZC.
-| Thurs Oct 3    | 🔵 Buddha Night | TBD - maybe cancelled
+| Thurs Oct 3    | 🔷 Buddha Night | TBD - maybe cancelled
 | Thurs Oct 10   | 🟡 Sangha Night |
-| Thurs Oct 17   | 🔵 Buddha Night |
+| Thurs Oct 17   | 🔷 Buddha Night |
 | Thurs Oct 24   | 🟡 Sangha Night |
-| Thurs Oct 31   | 🟢 Dharma Night | Ceremony?
-| Thurs Nov 7    | 🔵 Buddha Night | 
+| Thurs Oct 31   | 🟩 Dharma Night | Ceremony?
+| Thurs Nov 7    | 🔷 Buddha Night | 
 | Thurs Nov 14   | 🟡 Sangha Night |
-| Thurs Nov 21   | 🔵 Buddha Night |
+| Thurs Nov 21   | 🔷 Buddha Night |
 | Thurs Nov 28   | 🟡 Sangha Night
 
 
@@ -36,17 +36,17 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 Sangha Night is the 2nd and 4th Thursdays of the month.
 
-### 🔵 Buddha Night
+### 🔷 Buddha Night
 
-🔵 Buddha Night is a silent meditation focused evening. Exact format is TBD, but won't include a talk or discussion. We share a snack outdoors afterwards.
+🔷 Buddha Night is a silent meditation focused evening. Exact format is TBD, but won't include a talk or discussion. We share a snack outdoors afterwards.
 
 Buddha Night is the 1st and 3rd Thursdays of the month.
 
 <!-- We start with introductions, proceed to have two periods of meditation, which are fully silent, have some light body movement, and finally a community member will share a reading. -->
 
-### 🟢 Dharma Night 
+### 🟩 Dharma Night 
 
-🟢 Dharma Night will be different each time it comes around. It will involve a concentrated look at a Buddhist text, a ceremony of some sort, or anything else that feels relevant. 
+🟩 Dharma Night will be different each time it comes around. It will involve a concentrated look at a Buddhist text, a ceremony of some sort, or anything else that feels relevant. 
 
 Dharma Night is on the 5th Thursdays, which happens every couple months. 
 
