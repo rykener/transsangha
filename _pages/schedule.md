@@ -17,8 +17,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 | Date           | Meeting Format  | Notes |
 |----------------|-----------------|-------|
 | LOCATION MOVED | back to Zen Center. | See Below. |
-| Thurs Sept 26  | 🟡 Sangha Night | Meeting at SFZC.
-| Thurs Oct 3    | 🔷 Buddha Night | TBD - maybe cancelled
+| Thurs Oct 3    | 🔷 Buddha Night | 
 | Thurs Oct 10   | 🟡 Sangha Night |
 | Thurs Oct 17   | 🔷 Buddha Night |
 | Thurs Oct 24   | 🟡 Sangha Night |
