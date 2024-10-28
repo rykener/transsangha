@@ -6,13 +6,13 @@ permalink: /deadname
 
 # Deadname Ceremony - October 31 @ 7p
 
-_The ceremony script will be here when it's ready._
+## [View the Ceremony Script](/documents/deadname24.pdf)
 
 The Deadname ceremony is a time to reflect on, process, love, and release our past while in community. You need not to have changed your name in order to participate, the ceremony is adaptable to all. 
 
 The ceremony involves setting up a space of protection, invoking and summoning spirits that have unfinished business (such as our pre-transition selves), offering nourishment and protection to those spirits, and then sending them on their way. It's very halloween appropriate. 
 
-During the ceremony folks will have an opportunity to write something down on a piece of paper that they're working with releasing. This could be your old name, old pronouns, old life, old relationship, old concepts, or just whatever really. 
+During the ceremony folks will have an opportunity to write something down on a piece of paper that they're working with releasing. This could be your old name, old pronouns, old life, old relationship, old concepts, deceased friends of family, or just whatever really. 
 
 The first portion of the evening will focus on studying the text and the ceremony. The second half will be performing the ceremony together, outdoors. 
 
@@ -22,6 +22,7 @@ When Maezumi Roshi, a teacher from Japan, transmitted this teaching to Bernie Gl
 
 I hope you'll join us for what will be an interesting night! 
 
+You can [DM Eleanor](https://signal.me/#eu/HicfJvKC2bVY_3RyHbMtzk13ucvyycJWs87gk68U3sHgMl6EtAZDvpnAP9-kn5Qe) (@rykener.01) on signal with any questions. 
 
 
 

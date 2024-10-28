@@ -17,13 +17,17 @@ We recommend newcomers visit on 🟡 Sangha Night.
 | Date           | Meeting Format  | Notes |
 |----------------|-----------------|-------|
 | LOCATION MOVED | back to Zen Center. | See Below. |
-| Thurs Oct 24   | 🟡 Sangha Night | Community Agreements Building
 | Thurs Oct 31   | 🟩 Dharma Night | [Deadname Ceremony](/deadname)
+| | |
 | Thurs Nov 7    | 🔷 Buddha Night | 
 | Thurs Nov 14   | 🟡 Sangha Night |
 | Thurs Nov 21   | 🔷 Buddha Night |
-| Thurs Nov 28   | 🟡 Sangha Night
-
+| Thurs Nov 28   | 🟡 Sangha Night |
+| | |
+| Thurs Dec 5    | 🔷 Buddha Night | 
+| Thurs Dec 12   | 🟡 Sangha Night |
+| Thurs Dec 19   | 🔷 Buddha Night |
+| Thurs Dec 26   | 🟡 Sangha Night | Yes, we are meeting on the 26th
 
 
 ### 🟡 Sangha Night
