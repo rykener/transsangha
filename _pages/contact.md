@@ -24,5 +24,5 @@ We use a Signal group to send updates to interested people, reminding them about
 
 ## To be added to the group:
 
-Please send us an email to [TransSangha@gmail.com](mailto:transsangha@gmail.com) introducing yourself. 
+Please send us an email to [TransSangha@gmail.com](mailto:transsangha@gmail.com) introducing yourself, including the phone number you have connected to your signal account. 
 
