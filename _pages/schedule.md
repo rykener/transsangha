@@ -25,7 +25,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 | Thurs Nov 28   | 🟡 Sangha Night |
 | | |
 | Thurs Dec 5    | 🔷 Buddha Night | 
-| Sun Dec 8      | HALF DAY RETREAT| 12-5. DM a facilitator to join.
+| Sun Dec 8      | HALF DAY RETREAT| 12-5. Registration required. DM a facilitator to join.
 | Thurs Dec 12   | 🟡 Sangha Night |
 | Thurs Dec 19   | 🔷 Buddha Night |
 | Thurs Dec 26   | 🟡 Sangha Night | Yes, we are meeting on the 26th
