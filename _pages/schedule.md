@@ -17,8 +17,6 @@ We recommend newcomers visit on 🟡 Sangha Night.
 | Date           | Meeting Format  | Notes |
 |----------------|-----------------|-------|
 | LOCATION MOVED | back to Zen Center. | See Below. |
-| Thurs Oct 31   | 🟩 Dharma Night | [Deadname Ceremony](/deadname)
-| | |
 | Thurs Nov 7    | 🔷 Buddha Night | 
 | Thurs Nov 14   | 🟡 Sangha Night |
 | Thurs Nov 21   | 🔷 Buddha Night |
