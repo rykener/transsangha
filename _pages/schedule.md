@@ -16,17 +16,16 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date           | Meeting Format  | Notes |
 |----------------|-----------------|-------|
-| LOCATION MOVED | back to Zen Center. | See Below. |
-| Thurs Nov 7    | 🔷 Buddha Night | 
-| Thurs Nov 14   | 🟡 Sangha Night |
-| Thurs Nov 21   | 🔷 Buddha Night |
-| Thurs Nov 28   | 🟡 Sangha Night |
+| Thurs Nov 7    | 🔷 Buddha Night | Election night processing space
+| Thurs Nov 14   | 🟡 Sangha Night | Loving-kindness
+| Thurs Nov 21   | 🔷 Buddha Night | TBD - TDOR Memorial
+| Thurs Nov 28   | 🟡 Sangha Night | Possibly cancelled. Thanksgiving.
 | | |
 | Thurs Dec 5    | 🔷 Buddha Night | 
-| Sun Dec 8      | HALF DAY RETREAT| 12-5. Registration required. DM a facilitator to join.
+| Sun Dec 8      | ♥️ Half Day Retreat | 12-5. Registration required.
 | Thurs Dec 12   | 🟡 Sangha Night |
 | Thurs Dec 19   | 🔷 Buddha Night |
-| Thurs Dec 26   | 🟡 Sangha Night | Yes, we are meeting on the 26th
+| Thurs Dec 26   | 🟡 Sangha Night | Possibly cancelled. TBD. 
 
 
 ### 🟡 Sangha Night
@@ -48,6 +47,13 @@ Buddha Night is the 1st and 3rd Thursdays of the month.
 🟩 Dharma Night will be different each time it comes around. It will involve a concentrated look at a Buddhist text, a ceremony of some sort, or anything else that feels relevant. 
 
 Dharma Night is on the 5th Thursdays, which happens every couple months. 
+
+### ♥️ Half Day Retreat
+
+♥️ Half Day Retreats are schuduled as the facilitators are available to host them. They occur on the weekends typically from 12-5. They include a brief period of meditation instruction, multiple periods of all silent meditation, a short talk, and a silent snack/tea break. This is an opportunity to deepen your meditation/Buddhist practice in community.
+
+You must register in order to attend. Prior experience is not necessary.
+
 
 
 ## Location
