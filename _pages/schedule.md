@@ -16,7 +16,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date           | Meeting Format  | Notes |
 |----------------|-----------------|-------|
-| Thurs Nov 21   | 🔷 Buddha Night | TBD - TDOR Memorial
+| Thurs Nov 21   | 🔷 Buddha Night | TDOR Memorial
 | Thurs Nov 28   | 🟡 Sangha Night | Possibly cancelled. Thanksgiving.
 | | |
 | Thurs Dec 5    | 🔷 Buddha Night | 
