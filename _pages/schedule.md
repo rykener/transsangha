@@ -16,7 +16,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date           | Meeting Format  | Notes |
 |----------------|-----------------|-------|
-| Thurs Nov 28   | 🟡 Sangha Night | CANCELLED
+| ~~Thurs Nov 28~~   | ~~🟡 Sangha Night~~ | CANCELLED
 | | |
 | Thurs Dec 5    | 🔷 Buddha Night | 
 | Sun Dec 8      | ♥️ Half Day Retreat | 12-5. Registration required.
