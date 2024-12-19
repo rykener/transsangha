@@ -39,11 +39,10 @@ Sangha Night is the 2nd and 4th Thursdays of the month.
 
 ### 🔷 Buddha Night
 
-🔷 Buddha Night is a silent meditation focused evening. Exact format is TBD, but won't include a talk or discussion. We share a snack outdoors afterwards.
+🔷 Buddha Night is a silent meditation focused evening that include introductions and two meditation periods. There's no talk or discussion. We share a snack outdoors afterwards.
 
 Buddha Night is the 1st and 3rd Thursdays of the month.
 
-<!-- We start with introductions, proceed to have two periods of meditation, which are fully silent, have some light body movement, and finally a community member will share a reading. -->
 
 ### 🟩 Dharma Night 
 

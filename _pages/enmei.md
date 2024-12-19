@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: The Enmei Jukku Kannon Gyo, or, The Life Extending 10-Line Avalokitesvara Sutra
 permalink: /enmei
 ---
-
-# The Enmei Jukku Kannon Gyo, or, The Life Extending 10-Line Avalokitesvara Sutra
 
 kan ze on 觀世音
 na mu butsu 南無佛
