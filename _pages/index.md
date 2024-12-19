@@ -20,7 +20,6 @@ Great! We welcome all trans people. Here's what you should know:
 * [Covid and accessibility info](/accessibility)
 * Masks required
 * We are a [scent-free](/accessibility#accessibility) community, meaning you should not arrive with any strong scents on you such as perfume/cologne, smoke, essential oils, or heavy detergents. 
-* The meeting place is under renovation and the only available restrooms are outdoor, flushable portapoties which are kept very clean. We expect to have access to indoor plumbing in January. 
 * Meetings typically have around 15-25 people in attendance and end promptly at 8:30
 * Optional hang out after the meeting for cookies and a chance to get to know each other.
 * No dress code. Comfy clothes recommended. You will be required to remove your shoes to enter the meditation area, so consider slip-ons (shoes may be left on for accessibility purposes, but please let a facilitator know).

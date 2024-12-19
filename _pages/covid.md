@@ -17,7 +17,7 @@ If you suspect you are sick (Covid or not), please do not attend.
 
 This is a **scent-free** space. Please do not arrive wearing perfume, cologne, heavily scented laundry detergent, or smelling of smoke. People who do not follow this guideline may be asked to leave. 
 
-The temple is located on a moderately steep San Francisco hill. There are no steps to access the meeting space, making it more or less wheelchair accessible. However, the space is a little hard to navigate in a wheelchair, but it is doable (a member of the community who uses a wheelchair has made it work). However, due to ongoing construction in the building, **the only available restrooms are outdoor portapotties that can only be accessed by going up a couple steps.** We expect to have access to accessible indoor plumbing in January. 
+The temple is located on a moderately steep San Francisco hill. There are no steps to access the meeting space, making it *mostly* wheelchair accessible. The restrooms are up a couple steps, and the wheelchair lift is still being installed as part of a building renovation.
 
 If you have any other accessibility needs, please reach out to us. We want this space to be accessible to those who want to join.  
 
