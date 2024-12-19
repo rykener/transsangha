@@ -1,52 +1,23 @@
 ---
 layout: page
-title:
+title: Trans Sangha Community Agreements
 permalink: /agreements
 ---
 
-We, the fox ghost sangha, with respect for the worth and dignity of each person, and with deep gratitude for the teachers of this lineage, covenent to support each other by upholding the precepts of doing no harm, practicing good, and actualizing good for others. 
+_for all Sangha spaces and group chats_
 
+**Well-being**: We acknowledge our words and actions influence the well-being of the community. We commit ourselves to being agents of well-being in Trans Sangha so that it may be a refuge for as many people as possible. We recognize that well-being is not synonymous with total agreement. 
 
-# Agreements
+**Both/And**: We practice “Both/And” thinking, acknowledging a variety of realities and experiences. 
 
-- When we're in a meeting **phones should be on silent and not visible**. 
-- Before entering a meditation space we will **take off our shoes**
-- When sharing we will **limit ourselves to speaking for no more than two minutes**
-- This is not a support group, we will **refrain from "dumping"**
-- When sharing we will **pay attention to how much and how often we talk**, and will consider speaking more or less to keep a balanced dynamic.
-- When speaking we will **practice self focus** and not speak for anyone other than ourselves
-- When disagreements arise we will **recognize the difference between intent and impact**. Denying the impact of something said by focusing on intent is often more destructive than the initial interaction.
-- When others are speaking we will **practice mindful listening** and avoid planning what we'll say when it's our turn to talk. 
+**Intention/Impact**: We take responsibility for our impact, knowing that while we may bring our best intentions to the space, our words and actions may still cause harm. 
 
+**“I” Statements**: We speak from our own embodied experience, staying close to the heart, and use “I” statements rather than speaking in generalizations.
 
-# Draft below
+**Growing Together**: We commit ourselves to a culture of humility, to ongoing learning, and to growing in awareness of what is often made invisible by systems of oppression. 
 
+**Opt-in/Opt-out**: We participate as we see fit, tuning in to our own capacity and taking space to care for ourselves as needed. We recognize that participation in all aspects of sangha is optional and consent-based. We can say and accept “no” without explanation.
 
-It's important to recognize that while we do have multiple opportunities to speak in front of the group, and that the group cultivates an intimate space, that this is *not a support group*. While it is perfectly appropriate to share that you've been going through a rough patch, we ask that you refrain from "dumping." The purpose of the group is to share in meditation practice and study, not to explicitly provide emotional support. We are not trained or qualified to hold space for that type of sharing.
+**Confidentiality**: We treat what’s shared in Sangha as confidential. When we share insights from our time together, we do so without identifying the personal details of others.  
 
-When sharing (both in the introduction and discussion sections) please limit yourself to speaking for a maximum of two minutes. Beyond that and a facilitator may ask you to wrap it up. 
-
-# Agreements 
-
-The East Bay Meditation Center developed what they call "agreements for multicultural interactions." We really appreciate how these agreements help us to self moderate in group discussions. These might feel like small things but they really add up in community settings. Here's a few of them that feel relevant here:
-
-## Move Up / Move Back: 
-
-Encourage full participation by all present. Take note of who is speaking and who is not. **If you tend to speak often, consider "moving back"** and vice versa. 
-
-## Practice Self Focus:
-
-Attend to and speak about your own experiences and responses. Do not speak for a whole group or express assumptions about the experience of others. E.g. "When **I** go to the store and the cashier is nice it makes **me** happy" vs. "You know how when **you** go to the store and the cashier is nice it makes **you** happy?" 
-
-## Understand The Difference Between Intent & Impact: 
-
-Try to understand and acknowledge the impact your words have. Denying the impact of something said by focusing on intent is often more destructive than the initial interaction.
-
-## Practice "Both / And": 
-
-When speaking, use the word "and" instead of “but” when possible. This practice acknowledges and honors multiple realities. E.g. "I love you so much **but** I can't make it tonight" vs "I love you so much **and** I can't make it tonight." In the first example, not being able to make it precludes the love. 
-
-## Practice Mindful Listening: 
-
-Try to avoid planning what you'll say as you listen to others. Be willing to be surprised, to learn something new. Listen with your whole self.
-
+**Move up/Move up**: We practice noticing our behavior and power dynamic in Sangha. If we tend to speak often, we move up into a role of listening more. If we tend to speak less often, we move up into a role of speaking more. We maintain awareness of the multiple identities in the room.
