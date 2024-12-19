@@ -14,15 +14,20 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 <div class="special_table"></div>
 
-| Date           | Meeting Format  | Notes |
-|----------------|-----------------|-------|
-| ~~Thurs Nov 28~~   | ~~🟡 Sangha Night~~ | CANCELLED
+| Date         | Meeting Format  | Notes |
+|--------------|-----------------|-------|
+| Thurs Dec 19 | 🔷 Buddha Night | 7:30pm start
+| Thurs Dec 26 | 🟡 Sangha Night | Enmei Jukku Kannon Gyo
+| Thurs Jan 2  | 🔷 Buddha Night | 
+| Thurs Jan 9  | 🟡 Sangha Night |
+| Thurs Jan 16 | 🔷 Buddha Night |
+| Thurs Jan 23 | 🟡 Sangha Night |
+| Thurs Jan 16 | 🟩 Dharma Night | Topic TBD
 | | |
-| Thurs Dec 5    | 🔷 Buddha Night | 
-| Sun Dec 8      | ♥️ Half Day Retreat | 12-5. Registration required.
-| Thurs Dec 12   | 🟡 Sangha Night |
-| Thurs Dec 19   | 🔷 Buddha Night |
-| Thurs Dec 26   | 🟡 Sangha Night | Possibly cancelled. TBD. 
+| Thurs Feb 6  | 🔷 Buddha Night | 
+| Thurs Feb 13 | 🟡 Sangha Night |
+| Thurs Feb 20 | 🔷 Buddha Night |
+| Thurs Feb 27 | 🟡 Sangha Night |
 
 
 ### 🟡 Sangha Night
