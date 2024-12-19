@@ -17,13 +17,13 @@ We recommend newcomers visit on 🟡 Sangha Night.
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
 | Thurs Dec 19 | 🔷 Buddha Night | 7:30pm start
-| Thurs Dec 26 | 🟡 Sangha Night | Enmei Jukku Kannon Gyo
+| Thurs Dec 26 | 🟡 Sangha Night | [Enmei Jukku Kannon Gyo](/enmei)
 | | |
 | Thurs Jan 2  | 🔷 Buddha Night | 
 | Thurs Jan 9  | 🟡 Sangha Night |
 | Thurs Jan 16 | 🔷 Buddha Night |
 | Thurs Jan 23 | 🟡 Sangha Night |
-| Thurs Jan 16 | 🟩 Dharma Night | Topic TBD
+| Thurs Jan 30 | 🟩 Dharma Night | Topic TBD
 | | |
 | Thurs Feb 6  | 🔷 Buddha Night | 
 | Thurs Feb 13 | 🟡 Sangha Night |
