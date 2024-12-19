@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Contact Info & Signal Group
 permalink: /contact
 ---
 
