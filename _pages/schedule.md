@@ -16,11 +16,10 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Jan 2  | 🔷 Buddha Night | 
-| Thurs Jan 9  | 🟡 Sangha Night |
+| Thurs Jan 9  | 🟡 Sangha Night | Mudita, Sympathetic Joy
 | Thurs Jan 16 | 🔷 Buddha Night |
-| Thurs Jan 23 | 🟡 Sangha Night |
-| Thurs Jan 30 | 🟩 Dharma Night | Topic TBD
+| Thurs Jan 23 | 🟡 Sangha Night | Koan
+| Thurs Jan 30 | 🟩 Dharma Night | Zen Ethics: The 16 Bodhisattva Precepts
 | | |
 | Thurs Feb 6  | 🔷 Buddha Night | 
 | Thurs Feb 13 | 🟡 Sangha Night |
