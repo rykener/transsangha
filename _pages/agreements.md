@@ -6,11 +6,9 @@ permalink: /agreements
 
 _for all Sangha spaces and group chats_
 
-## Below is a DRAFT
+**Well-being**: We acknowledge our words and actions influence the well-being of the community. We commit ourselves to being agents of well-being in Trans Sangha so that it may be a refuge for as many trans people as possible. We recognize that well-being is not synonymous with total agreement. 
 
-**Well-being**: We acknowledge our words and actions influence the well-being of the community. We commit ourselves to being agents of well-being in Trans Sangha so that it may be a refuge for as many people as possible. We recognize that well-being is not synonymous with total agreement. 
-
-**Both/And**: We practice “Both/And” thinking, acknowledging a variety of realities and experiences. 
+**Both/And**: We practice “Both/And” thinking, acknowledging one another’s reality, experience, and truth.
 
 **Intention/Impact**: We take responsibility for our impact, knowing that while we may bring our best intentions to the space, our words and actions may still cause harm. 
 
