@@ -16,12 +16,19 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Jan 30 | 🔷 Buddha Night | Extra buddha night
-| | |
-| Thurs Feb 6  | 🔷 Buddha Night | 
-| Thurs Feb 13 | 🟡 Sangha Night |
+| Thurs Feb 13 | 🟡 Sangha Night | Equanimity
 | Thurs Feb 20 | 🔷 Buddha Night |
 | Thurs Feb 27 | 🟡 Sangha Night |
+| | | 
+| Thurs Mar 6  | 🔷 Buddha Night | 
+| Thurs Mar 13 | 🟡 Sangha Night | 
+| Thurs Mar 20 | 🔷 Buddha Night | 
+| Thurs Mar 27 | 🟡 Sangha Night | 
+| | | 
+| Thurs Apr 3  | 🔷 Buddha Night | 
+| Thurs Apr 10 | 🟡 Sangha Night | 
+| Thurs Apr 17 | 🔷 Buddha Night | 
+| Thurs Apr 24 | 🟡 Sangha Night | 
 
 
 ### 🟡 Sangha Night
