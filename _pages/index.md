@@ -26,7 +26,9 @@ Great! We welcome all trans people. Here's what you should know:
 
 ## Facilitators
 
-The group is co-facilitated by a group of friends who enjoy practicing engaged Buddhism together in a variety of traditions. We are not Buddhist teachers.
+The group is co-facilitated by a rotating group trans of Buddhists who practice in a variety of traditions. 
+
+We are not Buddhist teachers.
 
 ## Meditation Style/Instruction
 

@@ -16,19 +16,19 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Feb 13 | 🟡 Sangha Night | Equanimity
-| Thurs Feb 20 | 🔷 Buddha Night |
-| Thurs Feb 27 | 🟡 Sangha Night |
-| | | 
-| Thurs Mar 6  | 🔷 Buddha Night | 
-| Thurs Mar 13 | 🟡 Sangha Night | 
 | Thurs Mar 20 | 🔷 Buddha Night | 
-| Thurs Mar 27 | 🟡 Sangha Night | 
+| Thurs Mar 27 | 🟡 Sangha Night | Not meeting in the Zendo, but still at Zen Center. Check Signal Chat for details. Topic: wholeness
 | | | 
 | Thurs Apr 3  | 🔷 Buddha Night | 
 | Thurs Apr 10 | 🟡 Sangha Night | 
 | Thurs Apr 17 | 🔷 Buddha Night | 
 | Thurs Apr 24 | 🟡 Sangha Night | 
+| | | 
+| Thurs May 1  | 🔷 Buddha Night | 
+| Thurs May 8  | 🟡 Sangha Night | 
+| Thurs May 15 | 🔷 Buddha Night | 
+| Thurs May 22 | 🟡 Sangha Night | 
+| Thurs May 29 | 🟩 Dharma Night | 
 
 
 ### 🟡 Sangha Night
