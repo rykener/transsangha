@@ -16,11 +16,8 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Mar 20 | 🔷 Buddha Night | 
-| Thurs Mar 27 | 🟡 Sangha Night | Not meeting in the Zendo, but still at Zen Center. Check Signal Chat for details. Topic: wholeness
-| | | 
-| Thurs Apr 3  | 🔷 Buddha Night | 
-| Thurs Apr 10 | 🟡 Sangha Night | 
+| ~~Thurs Apr 10~~ | ~~🟡 Sangha Night~~ | CANCELLED
+| Sun Apr 13   | ♥️ Half Day Retreat | DM to join
 | Thurs Apr 17 | 🔷 Buddha Night | 
 | Thurs Apr 24 | 🟡 Sangha Night | 
 | | | 
