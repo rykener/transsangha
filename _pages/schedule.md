@@ -16,10 +16,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| ~~Thurs Apr 10~~ | ~~🟡 Sangha Night~~ | CANCELLED
-| Sun Apr 13   | ♥️ Half Day Retreat | DM to join
-| Thurs Apr 17 | 🔷 Buddha Night | 
-| Thurs Apr 24 | 🟡 Sangha Night | 
+| Thurs Apr 24 | 🟡 Sangha Night | Path of Practice
 | | | 
 | Thurs May 1  | 🔷 Buddha Night | 
 | Thurs May 8  | 🟡 Sangha Night | 
