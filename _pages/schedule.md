@@ -16,10 +16,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Apr 24 | 🟡 Sangha Night | Path of Practice
-| | | 
-| Thurs May 1  | 🔷 Buddha Night | 
-| Thurs May 8  | 🟡 Sangha Night | 
+| Thurs May 8  | 🟡 Sangha Night | Location changed. Informal. At Ocean Beach. See Signal chat for details. 
 | Thurs May 15 | 🔷 Buddha Night | 
 | Thurs May 22 | 🟡 Sangha Night | 
 | Thurs May 29 | 🟩 Dharma Night | 
