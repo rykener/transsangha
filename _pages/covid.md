@@ -17,10 +17,10 @@ If you suspect you are sick (Covid or not), please do not attend.
 
 This is a **scent-free** space. Please do not arrive wearing perfume, cologne, heavily scented laundry detergent, or smelling of smoke. People who do not follow this guideline may be asked to leave. 
 
-The temple is located on a moderately steep San Francisco hill. There are no steps to access the meeting space, making it *mostly* wheelchair accessible. The restrooms are up a couple steps, and the wheelchair lift is still being installed as part of a building renovation.
+The temple is located on a moderately steep San Francisco hill. There are no steps to access the meeting space, making it *mostly* wheelchair accessible. The restroom is up a couple steps though there is a wheelchair lift that is available for use.
 
 If you have any other accessibility needs, please reach out to us. We want this space to be accessible to those who want to join.  
 
 ## Meditative Accessibility
 
-All bodies are different and not everyone is physically comfortable sitting on a cushion on the ground for extended periods of time. For this reason, we encourage people to meditate how they feel most comfortable: lying down, in a chair, or on a traditional cushion. You are welcome to move and change your position at any point during the meditation. 
+All bodies are different and not everyone is physically comfortable sitting on a cushion on the ground for extended periods of time. For this reason, we encourage people to meditate how they feel most comfortable: lying down, in a chair, or on a traditional cushion. You are welcome to move and change your position at any point during the meditation. Extra cushions are available to help you make yourself comfortable. 
