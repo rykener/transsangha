@@ -20,7 +20,13 @@ We recommend newcomers visit on 🟡 Sangha Night.
 | Thurs May 15 | 🔷 Buddha Night | 
 | Thurs May 22 | 🟡 Sangha Night | 
 | Thurs May 29 | 🟩 Dharma Night | 
-
+| | |
+| Thurs June 5  | 🔷 Buddha Night | 
+| Thurs June 12 | 🟡 Sangha Night | 
+| Thurs June 19 | 🔷 Buddha Night | 
+| Thurs June 26 | 🟡 Sangha Night | 
+| | |
+| Thurs July 3  | Sangha 2 Year Anniversary! | 
 
 ### 🟡 Sangha Night
 
