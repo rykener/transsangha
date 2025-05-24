@@ -16,10 +16,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs May 8  | Informal at Ocean Beach |  See Signal chat for details. 
-| Thurs May 15 | 🔷 Buddha Night | 
-| Thurs May 22 | 🟡 Sangha Night | 
-| Thurs May 29 | 🟩 Dharma Night | 
+| Thurs May 29 | 🟩 Dharma Night | Chanting night (Diamond Sutra)
 | | |
 | Thurs June 5  | 🔷 Buddha Night | 
 | Thurs June 12 | 🟡 Sangha Night | 
