@@ -16,7 +16,7 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs May 29 | 🟩 Dharma Night | Chanting night (Diamond Sutra)
+| Thurs May 29 | 🟩 Dharma Night | Chanting night
 | | |
 | Thurs June 5  | 🔷 Buddha Night | 
 | Thurs June 12 | 🟡 Sangha Night | 
