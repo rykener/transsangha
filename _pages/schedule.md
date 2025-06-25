@@ -16,14 +16,13 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs May 29 | 🟩 Dharma Night | Chanting night
+| Thurs June 26 | ❌ Canceled | See chat for updates
 | | |
-| Thurs June 5  | 🔷 Buddha Night | 
-| Thurs June 12 | 🟡 Sangha Night | 
-| Thurs June 19 | 🔷 Buddha Night | 
-| Thurs June 26 | 🟡 Sangha Night | 
-| | |
-| Thurs July 3  | Sangha 2 Year Anniversary! | 
+| Thurs July 3  | 🔷 Buddha Night | ❌ Potentially canceled. See chat for updates.
+| Thurs July 10 | 🟡 Sangha Night | 2 year anniversary
+| Thurs July 17 | 🔷 Buddha Night |
+| Thurs July 24 | 🟡 Sangha Night |
+| Thurs July 31 | 🟩 Dharma Night | 
 
 ### 🟡 Sangha Night
 
