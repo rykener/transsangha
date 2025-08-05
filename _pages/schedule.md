@@ -8,7 +8,7 @@ permalink: /schedule
 
 Every Thursday from 7:00pm-8:30pm.
 
-We recommend newcomers visit on 🟡 Sangha Night. 
+We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night 
 
 **Upcoming Meetings**
 
@@ -16,19 +16,26 @@ We recommend newcomers visit on 🟡 Sangha Night.
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs June 26 | ❌ Canceled | See chat for updates
+| Thurs Aug 7  | 🔷 Buddha Night | 
+| Thurs Aug 14 | 🟡 Sangha Night | Path of Practice talks
+| Thurs Aug 21 | 🔷 Buddha Night |
+| Thurs Aug 28 | 🟡 Sangha Night | Guest Speaker: Rev. So-On Eli Brown-Stevenson
 | | |
-| Thurs July 3  | 🔷 Buddha Night | ❌ Potentially canceled. See chat for updates.
-| Thurs July 10 | 🟡 Sangha Night | 2 year anniversary
-| Thurs July 17 | 🔷 Buddha Night |
-| Thurs July 24 | 🟡 Sangha Night |
-| Thurs July 31 | 🟩 Dharma Night | 
+| Thurs Sept 4  | 🔷 Buddha Night
+| Sun Sept 7    | Half day sit | (Registration required)
+| Thurs Sept 14 | 🟡 Sangha Night | 
+| Thurs Sept 21 | 🟥 BIPOC Affinity Night |
+| Thurs Sept 28 | 🟡 Sangha Night |
 
 ### 🟡 Sangha Night
 
 🟡 Sangha Night is a community building focused evening and includes 25 minutes of guided meditation, introductions, a short talk, and community discussion. If you'd like to stick around and chat, we share a snack outdoors afterwards.
 
 Sangha Night is the 2nd and 4th Thursdays of the month.
+
+### 🟥 BIPOC Affinity Night
+
+🟥 3rd Thursdays of each month. More details to come. 
 
 ### 🔷 Buddha Night
 
@@ -43,9 +50,9 @@ Buddha Night is the 1st and 3rd Thursdays of the month.
 
 Dharma Night is on the 5th Thursdays, which happens every couple months. 
 
-### ♥️ Half Day Retreat
+### Half Day Retreat
 
-♥️ Half Day Retreats are schuduled as the facilitators are available to host them. They occur on the weekends typically from 12-5. They include a brief period of meditation instruction, multiple periods of all silent meditation, a short talk, and a silent snack/tea break. This is an opportunity to deepen your meditation/Buddhist practice in community.
+Half Day Retreats are schuduled as the facilitators are available to host them. They occur on the weekends typically from 12-5. They include a brief period of meditation instruction, multiple periods of all silent meditation, a short talk, and a silent snack/tea break. This is an opportunity to deepen your meditation/Buddhist practice in community.
 
 You must register in order to attend. Prior experience is not necessary.
 
