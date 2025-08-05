@@ -19,7 +19,7 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 | Thurs Aug 7  | 🔷 Buddha Night | 
 | Thurs Aug 14 | 🟡 Sangha Night | Path of Practice talks
 | Thurs Aug 21 | 🔷 Buddha Night |
-| Thurs Aug 28 | 🟡 Sangha Night | Guest Speaker: Rev. So-On Eli Brown-Stevenson
+| Thurs Aug 28 | 🟡 Sangha Night | Guest Speaker
 | | |
 | Thurs Sept 4  | 🔷 Buddha Night
 | Sun Sept 7    | Half day sit | (Registration required)
