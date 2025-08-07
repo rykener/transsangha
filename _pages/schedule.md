@@ -23,9 +23,9 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 | | |
 | Thurs Sept 4  | 🔷 Buddha Night
 | Sun Sept 7    | Half day sit | (Registration required)
-| Thurs Sept 14 | 🟡 Sangha Night | 
-| Thurs Sept 21 | 🟥 BIPOC Affinity Night |
-| Thurs Sept 28 | 🟡 Sangha Night |
+| Thurs Sept 11 | 🟡 Sangha Night | 
+| Thurs Sept 18 | 🟥 BIPOC Affinity Night |
+| Thurs Sept 25 | 🟡 Sangha Night |
 
 ### 🟡 Sangha Night
 
