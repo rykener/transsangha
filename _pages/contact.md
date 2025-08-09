@@ -5,7 +5,7 @@ permalink: /contact
 ---
 
 ## Email
-[TransSangha@gmail.com](mailto:transsangha@gmail.com)
+[TransSangha@proton.me](mailto:TransSangha@proton.me)
 
 ## Get Updates About Trans Sangha
 
@@ -24,5 +24,5 @@ We use a Signal group to send updates to interested people, reminding them about
 
 ## To be added to the group:
 
-Please send us an email to [TransSangha@gmail.com](mailto:transsangha@gmail.com) introducing yourself, including the phone number you have connected to your signal account. 
+Please send us an email to [TransSangha@proton.me](mailto:TransSangha@proton.me) introducing yourself, including the phone number you have connected to your signal account. 
 
