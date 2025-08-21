@@ -16,8 +16,6 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Aug 7  | 🔷 Buddha Night | 
-| Thurs Aug 14 | 🟡 Sangha Night | Path of Practice talks
 | Thurs Aug 21 | 🔷 Buddha Night |
 | Thurs Aug 28 | 🟡 Sangha Night | Guest Speaker
 | | |
