@@ -16,14 +16,21 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Aug 21 | 🔷 Buddha Night |
-| Thurs Aug 28 | 🟡 Sangha Night | Guest Speaker
-| | |
-| Thurs Sept 4  | 🔷 Buddha Night
-| Sun Sept 7    | Half day sit | (Registration required)
-| Thurs Sept 11 | 🟡 Sangha Night | 
 | Thurs Sept 18 | 🟥 BIPOC Affinity Night |
 | Thurs Sept 25 | 🟡 Sangha Night |
+| | |
+| Thurs Oct 2  | 🔷 Buddha Night
+| Thurs Oct 9  | 🟡 Sangha Night | 
+| Thurs Oct 16 | 🟥 BIPOC Affinity Night |
+| Thurs Oct 23 | 🟡 Sangha Night |
+| Thurs Oct 30 | 🟩 Dharma Night  | Deadname Ceremony
+| | |
+| Thurs Nov 6  | 🔷 Buddha Night
+| Thurs Nov 13 | 🟡 Sangha Night | 
+| Thurs Nov 20 | 🟥 BIPOC Affinity Night |
+| Thurs Nov 27 | 🟡 Sangha Night |
+
+
 
 ### 🟡 Sangha Night
 
@@ -33,7 +40,9 @@ Sangha Night is the 2nd and 4th Thursdays of the month.
 
 ### 🟥 BIPOC Affinity Night
 
-🟥 3rd Thursdays of each month. More details to come. 
+🟥 3rd Thursdays of each month. If you identify as BIPOC, please join us for programming around intersectionality, BIPOC, and Trans identity.
+
+If you identify as white, please attend any other Thursday of the month. 
 
 ### 🔷 Buddha Night
 
