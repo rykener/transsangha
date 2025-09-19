@@ -39,9 +39,11 @@ Sangha Night is the 2nd and 4th Thursdays of the month.
 
 ### 🟥 BIPOC Affinity Night
 
-🟥 3rd Thursdays of each month. If you identify as BIPOC, please join us for programming around intersectionality, BIPOC, and Trans identity.
+🟥 BIPOC Affinity Night is for people who identify as BIPOC. The night features programming around intersectionality, BIPOC, and Trans identity. It includes guided meditation, introductions, a group reading, and community discussion. Snacks are shared afterwards if you'd like to stick around to chat.
 
-If you identify as white, please attend any other Thursday of the month. 
+BIPOC Affinity Night is the 3rd Thursdays of each month. 
+
+_If you identify as white_, please attend any other Thursday of the month. 
 
 ### 🔷 Buddha Night
 
