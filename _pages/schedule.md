@@ -16,8 +16,7 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Sept 18 | 🟥 BIPOC Affinity Night |
-| Thurs Sept 25 | 🟡 Sangha Night |
+| Thurs Sept 25 | 🟡 Sangha Night | Hope and Suffering
 | | |
 | Thurs Oct 2  | 🔷 Buddha Night
 | Thurs Oct 9  | 🟡 Sangha Night | 
