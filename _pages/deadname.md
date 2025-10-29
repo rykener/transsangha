@@ -4,7 +4,7 @@ title:
 permalink: /deadname
 ---
 
-# Deadname Ceremony - October 31 @ 7p
+# Deadname Ceremony - October 30 @ 7p
 
 ## [View the Ceremony Script](/docs/deadname24.pdf)
 
@@ -20,10 +20,10 @@ The ceremony itself is based on a text known as The Gate of Sweet Dew or the Kan
 
 When Maezumi Roshi, a teacher from Japan, transmitted this teaching to Bernie Glassman Roshi, in America, he cited how various cultures throughout history have changed it, and encouraged Glassman to change it and make it relevant for America today. Trans Sangha has adapted this ceremony so our community can enjoy the benefits of it in a way that is relevant to our lives. Ceremonies are for humans, so it's good to make them fit! 
 
-I hope you'll join us for what will be an interesting night! 
+I hope you'll join us for what will be a meaningful night! 
 
 You can [DM Eleanor](https://signal.me/#eu/HicfJvKC2bVY_3RyHbMtzk13ucvyycJWs87gk68U3sHgMl6EtAZDvpnAP9-kn5Qe) (@rykener.01) on signal with any questions. 
 
 
 
-<!-- <script>window.location.href = "/documents/deadname.pdf"</script> -->
+<!-- <script>window.location.href = "/docs/deadname24.pdf"</script> -->
