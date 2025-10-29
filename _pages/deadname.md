@@ -6,7 +6,7 @@ permalink: /deadname
 
 # Deadname Ceremony - October 31 @ 7p
 
-## [View the Ceremony Script](/documents/deadname24.pdf)
+## [View the Ceremony Script](/docs/deadname24.pdf)
 
 The Deadname ceremony is a time to reflect on, process, love, and release our past while in community. You need not to have changed your name in order to participate, the ceremony is adaptable to all. 
 
