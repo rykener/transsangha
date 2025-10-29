@@ -22,7 +22,7 @@ When Maezumi Roshi, a teacher from Japan, transmitted this teaching to Bernie Gl
 
 I hope you'll join us for what will be a meaningful night! 
 
-You can [DM Eleanor](https://signal.me/#eu/HicfJvKC2bVY_3RyHbMtzk13ucvyycJWs87gk68U3sHgMl6EtAZDvpnAP9-kn5Qe) (@rykener.01) on signal with any questions. 
+You can DM Kei or Eleanor on signal with any questions. 
 
 
 
