@@ -19,9 +19,9 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 | Thurs Oct 30 | 🟩 Dharma Night  | Deadname Ceremony
 | | |
 | Thurs Nov 6  | 🔷 Buddha Night
-| Thurs Nov 13 | 🟡 Sangha Night | 
-| Thurs Nov 20 | 🟥 BIPOC Affinity Night |
-| Thurs Nov 27 | 🟡 Sangha Night |
+| Thurs Nov 13 | 🟥 BIPOC Affinity Night |
+| Thurs Nov 20 | 🟡 TDOR Memorial Service
+| Thurs Nov 27 | Cancelled for Thanksgiving
 
 
 
