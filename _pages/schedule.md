@@ -16,15 +16,16 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Nov 27 | Cancelled for Thanksgiving
-| | |
-| Thurs Dec 4  | 🔷 Buddha Night
-| Thurs Dec 11 | 🟡 Sangha Night |
-| Thurs Dec 18 | 🟥 BIPOC Affinity Night
-| Thurs Dec 25 | Cancelled
-| | |
-| Thurs Jan 1 | TBD
+| Thurs Jan 1 | 🔷 Buddha Night
 | Thurs Jan 8 | 🟡 Sangha Night |
+| Thurs Jan 15 | 🟥 BIPOC Affinity Night
+| Thurs Jan 22 | 🟡 Sangha Night 
+| Thurs Jan 29 | 🟩 Dharma Night | Topic TBD
+| | 
+| Thurs Feb 5 | 🔷 Buddha Night
+| Thurs Feb 12 | 🟡 Sangha Night |
+| Thurs Feb 19 | 🟥 BIPOC Affinity Night
+| Thurs Feb 26 | 🟡 Sangha Night 
 
 
 ### 🟡 Sangha Night
