@@ -15,7 +15,7 @@ Trans Sangha fosters trans community grounded in <span data-nosnippet>mutual aid
 Great! We welcome all trans people. Here's what you should know:
 
 * If you're new to meditation, come visit us on 🟡 Sangha Night! This includes a guided meditation and community discussion, and may be a preferable program for beginners. See the [calendar](/schedule) for more info. 
-* If you identify as BIPOC or multiracial, you're also welcome to join the 🟥 BIPOC Affinity Night that takes place on the 3rd Thursday of each month, starting in September. 
+* If you identify as BIPOC or multiracial, you're also welcome to join the 🟥 BIPOC Affinity Night that takes place on the 3rd Thursday of each month. 
 * [Calendar, meeting times, and location](/schedule)
 * [Join the Signal group](/contact). This is a read-only group chat on Signal where we drop updates and reminders about the group. It's our alternative to an email list.
 * [Covid and accessibility info](/accessibility)
