@@ -44,7 +44,7 @@ _If you identify as white_, please attend any other Thursday of the month.
 
 ### 🔷 Buddha Night
 
-🔷 Buddha Night is a silent meditation focused evening that include introductions and two meditation periods. There's no talk or discussion. We share a snack outdoors afterwards.
+🔷 Buddha Night is a silent meditation focused evening that includes introductions and two meditation periods. There's no talk or discussion. We share a snack outdoors afterwards.
 
 Buddha Night is the 1st Thursday of the month.
 

@@ -4,7 +4,7 @@ title: Trans Sangha Community Agreements
 permalink: /agreements
 ---
 
-_for all Sangha spaces and group chats_
+_For all Sangha spaces and group chats. See conflict guidelines [here](/docs/conflict.pdf)._
 
 **Well-being**: We acknowledge our words and actions influence the well-being of the community. We commit ourselves to being agents of well-being in Trans Sangha so that it may be a refuge for as many trans people as possible. We recognize that well-being is not synonymous with total agreement. 
 
