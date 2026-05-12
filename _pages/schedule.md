@@ -16,12 +16,22 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
-| Thurs Feb 26 | CANCELLED
-|| 
-| Thurs Mar 5 | 🔷 Buddha Night
-| Thurs Mar 12 | 🟡 Sangha Night |
-| Thurs Mar 19 | 🟥 BIPOC Affinity Night
-| Thurs Mar 26 | 🟡 Sangha Night 
+| Thurs May 14 | 🟡 Sangha Night |
+| Thurs May 21 | 🟥 BIPOC Affinity Night
+| Thurs May 28 | 🟡 Sangha Night 
+||
+| Thurs Jun 4 | 🔷 Buddha Night
+| Thurs Jun 11 | 🟡 Sangha Night | Potential pre-ordination ceremony 
+| Thurs Jun 18 | 🟥 BIPOC Affinity Night
+| Thurs Jun 25 | 🟡 Sangha Night | May change for pride
+
+### Meeting Pattern
+
+- 1st Thursday: 🔷 Buddha Night
+- 2nd Thurday: 🟡 Sangha Night 
+- 3rd Thursday: 🟥 BIPOC Affinity Night
+- 4th Thursday: 🟡 Sangha Night 
+- 5th Thursday: 🟩 Dharma Night 
 
 
 ### 🟡 Sangha Night
