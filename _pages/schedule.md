@@ -17,7 +17,7 @@ We recommend newcomers visit on 🟡 Sangha Night or 🟥 BIPOC Affinity Night
 | Date         | Meeting Format  | Notes |
 |--------------|-----------------|-------|
 | Thurs Jul 16 | 🟥 BIPOC Affinity Night
-| Thurs Jul 23 | 🟡 Sangha Night | May be cancelled
+| ~~Thurs Jul 23~~ | ~~🟡 Sangha Night~~ | Cancelled
 | Sun Jul 26 | Half Day Retreat | Registration Required
 | ~~Thurs Jul 30~~ | ~~🟩 Dharma Night~~ | Cancelled
 | |  
